@@ -1,0 +1,29 @@
+_repo: Oude-Egyptische-Legenden_15236
+_version: 0.1.0
+alternative_title: Ancient Egyptian legends. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Margaret Alice
+    alias: Murray, M. A. (Margaret Alice)
+    birthdate: 1863
+    deathdate: 1963
+    gutenberg_agent_id: '5935'
+    url: http://www.gutenberg.org/2009/agents/5935
+description: 'Translation of: Ancient Egyptian legends.'
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15236'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology, Egyptian'
+title: Oude Egyptische Legenden
+url: http://www.gutenberg.org/ebooks/15236
